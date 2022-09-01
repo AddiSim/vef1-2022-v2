@@ -39,7 +39,7 @@ Síða með könnun um forritun, undir `sidur/konnun.html`, setja skal upp eftir
 
 * Svæðið „Reynsla af forritun“
   * Val um forritunarmál úr listanum í `gogn/forritunarmal.txt` með textanum „Forritunarmál sem ég kann best“, verður að velja.
-  * Stika sem leyfir að merkja hversu vel forritunarmálið er þekkt, frá 0 til 10.
+  * Stika merkt með „Hversu vel kanntu forritunarmálið á skalanum 0 til 10?“ sem leyfir að merkja hversu vel forritunarmálið er þekkt, frá 0 til 10.
   * Textabox merkt með „Hvað finnst þér best við forritunarmálið?“, verður að fylla inn í.
   * Textabox merkt með „Hvað finnst þér verst við forritunarmálið?“, verður að fylla inn í.
   * Reitur sem leyfir að velja skrá, merktur með „Dæmi um forrit“.
@@ -50,7 +50,7 @@ Síða með könnun um forritun, undir `sidur/konnun.html`, setja skal upp eftir
     * `Vegna vinnu`
     * `Fyrir akademísk störf`
     * `Forvitni`
-  * Textabox merkt með „Annað“, verður ekki að fylla út í.
+  * Textasvæði (fleiri en ein lína) merkt með „Annað“, verður ekki að fylla út í.
 * Svæðið „Hafa samband“
   * Gátreitur (e. checkbox) með textanum „Það má hafa samband við mig“
   * Netfang, texti sem lítur út fyrir að vera netfang, þarf ekki að fylla út í.
@@ -116,4 +116,4 @@ Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samta
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
 
-> Útgáfa 0.1
+> Útgáfa 0.2 (lýsing á formi bætt)
