@@ -1,6 +1,6 @@
 # Vefforritun 1, 2022: Verkefni 2, HTML #2
 
-[Kynning í fyrirlestri](https://youtu.be/).
+[Kynning í fyrirlestri](https://www.youtube.com/watch?v=fZ13SnZGTFE).
 
 ## Markmið
 
