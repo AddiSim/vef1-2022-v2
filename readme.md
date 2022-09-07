@@ -58,7 +58,9 @@ Síða með könnun um forritun, undir `sidur/konnun.html`, setja skal upp eftir
 
 ### Bóka síða
 
-Síða með lista af bókum sem á heima á `sidur/baekur.html`, gögn í [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) skjalinu `gogn/baekur.csv`. Heiti bókar skal vera tengill á gefin tengil í gögnum.
+Síða með lista af bókum sem á heima á `sidur/baekur.html`, gögn í [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) skjalinu `gogn/baekur.csv`. 
+
+Tafla skal vera uppsett með tveim dálkum: heiti og höfun. Heiti bókar skal vera tengill á gefin tengil í gögnum. Athugið að nota rétt HTML element fyrir „haus“ töflu og meginmál.
 
 ## Útlit
 
@@ -116,4 +118,4 @@ Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samta
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
 
-> Útgáfa 0.2 (lýsing á formi bætt)
+> Útgáfa 0.3 (lýsing á formi bætt, lýsing á töflu bætt)
